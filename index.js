@@ -43,5 +43,5 @@ function preserveDecimal(n) {
 }
 
 function inc(n) {
-  return n +=
+  return n += 1;
 }
