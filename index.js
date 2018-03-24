@@ -41,3 +41,7 @@ function preserveDecimal (n) {
 function preserveDecimal(n) {
   return parseFloat(n,2);
 }
+
+function inc(n) {
+  return n +=
+}
